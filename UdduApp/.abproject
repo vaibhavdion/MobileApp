@@ -1,0 +1,37 @@
+{
+  "ProjectName": "UdduApp",
+  "ProjectGuid": "63d41197-95c9-478c-8c4e-d30b6d0a13fa",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.UdduApp",
+  "DisplayName": "UdduApp",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{7087a191-35a6-46a5-a195-9925235fba79}",
+  "WP8ProductID": "{b742962d-7844-435d-aa6f-4ed08d76f8b4}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
